@@ -1,5 +1,3 @@
-# basic-portfolio
-
 # 🌐 Basic Portfolio (Demo)
 
 This is a **demo portfolio website project** created using **HTML, CSS, and JavaScript**.  
